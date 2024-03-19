@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "titulo": "Cadenita Rapunzel",
+        "imagen": "/img/productos/cadenitaRapunzel.jpg",
+        "precio": 2500
+    },
+    {
+        "id": 2,
+        "titulo": "Cadenitas Sol & Luna",
+        "imagen": "/img/productos/cadenitaSolLuna.jpg",
+        "precio": 3500
+    },
+    {
+        "id": 3,
+        "titulo": "Abridor 3 florcitas",
+        "imagen": "/img/productos/abrFlor.jpg",
+        "precio": 2200
+    },
+    {
+        "id": 4,
+        "titulo": "Argollas Jenna",
+        "imagen": "/img/productos/argollaJenna.jpg",
+        "precio": 2700
+    },
+    {
+        "id": 5,
+        "titulo": "Aros cubik corazón",
+        "imagen": "/img/productos/aroCorazon.jpg",
+        "precio": 1600
+    },
+    {
+        "id": 6,
+        "titulo": "Anillo brillito",
+        "imagen": "/img/productos/anilloBrillo.jpg",
+        "precio": 2000
+    },
+    {
+        "id": 7,
+        "titulo": "Argollitas mariposas",
+        "imagen": "/img/productos/argollaMariposa.jpg",
+        "precio": 3100
+    },
+    {
+        "id": 8,
+        "titulo": "Argollas Lopa",
+        "imagen": "/img/productos/argollaLopa.jpg",
+        "precio": 1500
+    },
+    {
+        "id": 9,
+        "titulo": "Anillo Ola",
+        "imagen": "/img/productos/anilloOla.jpg",
+        "precio": 1800
+    },
+    {
+        "id": 10,
+        "titulo": "Argollas Viper",
+        "imagen": "/img/productos/argollaViper.jpg",
+        "precio": 2700
+    },
+    {
+        "id": 11,
+        "titulo": "Pulsera Flor",
+        "imagen": "/img/productos/pulseraFlor.jpg",
+        "precio": 1200
+    }
+]

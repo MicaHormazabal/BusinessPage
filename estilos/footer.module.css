@@ -1,0 +1,64 @@
+.piePagina {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    background-color: rgb(242, 46, 154);
+    color: #F2F2F2;
+    height: auto;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.redes {
+    display: flex;
+}
+
+.container {
+    width: 50%;
+}
+
+.redes img {
+    width: 1.5rem;
+}
+
+.redes{
+    width: 100%;
+    margin: 10px;
+}
+
+.titleContainer {
+    width: 40%;
+}
+
+.linkContainer {
+    text-align: left;
+    width: 60%;
+    margin-left: 20%;
+}
+
+@media (max-width: 800px) {
+    
+    .redes {
+        flex-direction: column;
+        text-align: center;
+
+    }
+
+    .redes, .container, .titleContainer, .linkContainer {
+        width: 100%;
+        margin: 0;
+    }
+
+    .titleContainer {
+        text-align: left;
+    }
+
+    .linkContainer {
+        padding-left: 20%;
+    }
+}

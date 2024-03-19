@@ -1,0 +1,11 @@
+#bienvenida {
+    display: flex;
+    text-align: justify;
+    align-items: center;
+    flex-direction: column;
+    margin: 30px 0;
+}
+
+#bienvenida p {
+    width: 70%;
+}

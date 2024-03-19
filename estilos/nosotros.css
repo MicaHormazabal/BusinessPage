@@ -1,0 +1,30 @@
+#historia {
+    display: flex;
+    text-align: justify;
+    align-items: center;
+    flex-direction: column;
+    margin: 30px 0;
+}
+
+#historia p {
+    width: 70%;
+}
+
+#staff {
+    width: 70%;
+    display: flex;
+    text-align: justify;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.imgNosotros {
+    width: 30%;
+}
+
+@media (max-width: 600px) {
+        
+    .imgNosotros {
+        width: 50%;
+    }
+}

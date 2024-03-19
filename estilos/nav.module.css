@@ -1,0 +1,11 @@
+.textoNav {
+    color: #F22E9A !important;
+}
+
+.textoNav:hover {
+    background-color: rgba(162, 179, 194, 0.596);
+}
+
+.buttonNav {
+    margin-bottom: 10px;
+}
